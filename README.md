@@ -1,5 +1,5 @@
-# Desserts Sale CRUD Web App - foodie-website_fullstack
-![Desserts Sale Web App](https://www.figma.com/design/H9KCyET18w4CwsthJa2TOM/FOODIE-Website?node-id=215-2&t=kP5eLVkVLUgTv0tN-0)
+# Desserts Sale Web App
+![Desserts Sale Web App](https://drive.google.com/file/d/1rwO9j0_s7yRN82GWcA4QKjX1iRuXo7lo/view)
 
 ## Overview
 
@@ -29,15 +29,15 @@ Steps:
 Navigate to the backend directory:
 ```sh
 cd backend
-Build and run the Java project using your preferred IDE or command-line tools.
 ```
+Build and run the Java project using your preferred IDE or command-line tools.
 
 #### Frontend (JSP, JSF, HTML, CSS, JS)
 Navigate to the frontend directory:
 ```sh
 cd frontend
-Open the project in your favorite text editor or IDE to modify and view the frontend code.
 ```
+Open the project in your favorite text editor or IDE to modify and view the frontend code.
 
 ### 3. Deployment
 Deploy the application using a Java web server like Apache Tomcat or another server of your choice.
