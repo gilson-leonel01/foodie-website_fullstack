@@ -1,5 +1,5 @@
 # Desserts Sale Web App
-![Desserts Sale Web App](https://drive.google.com/file/d/1rwO9j0_s7yRN82GWcA4QKjX1iRuXo7lo/view)
+![Desserts Sale Web App](https://github.com/gilson-leonel01/foodie-website_fullstack/blob/b314a5a4c35ad1e1c72d3ca22a5b309f4a0be411/TelaPrincipal-Darkmode.png)
 
 ## Overview
 
