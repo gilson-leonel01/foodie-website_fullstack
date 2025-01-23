@@ -52,7 +52,8 @@ Customizable Reporting: Generate reports on sales, revenue, and inventory based 
 #### MySQL Documentation
 #### Apache Tomcat
 #### MVC Architecture in Java
-#### 🛠️ Technologies Used:
+
+## 🛠️ Technologies Used:
 ##### Backend: 
 Java, Servlets, MySQL
 ##### Frontend: 
