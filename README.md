@@ -1,9 +1,9 @@
-# Desserts Sale Web App
+# Desserts Sale Web App -  🍰🍪FOODIE🍩🎂
 ![Desserts Sale Web App](https://github.com/gilson-leonel01/foodie-website_fullstack/blob/b314a5a4c35ad1e1c72d3ca22a5b309f4a0be411/TelaPrincipal-Darkmode.png)
 
 ## Overview
 
-This project, named **Desserts Sale CRUD Web App**, is a full-stack web application developed to manage dessert sales. It utilizes Java, JSP, Servlets, Faceless, MVC architecture, HTML, CSS, and JavaScript to deliver a seamless shopping experience with dynamic features and customizable reporting.
+This project, named **FOODIE - Desserts Sale CRUD Web App**, is a full-stack web application developed to manage dessert sales. It utilizes Java, Servlets, Faceless, MVC architecture, JSP, JSF, HTML, CSS, and JavaScript to deliver a seamless shopping experience with dynamic features and customizable reporting.
 
 ## 🚀 Running the Project
 
@@ -48,7 +48,8 @@ Dynamic Mapping: Visualize sales data and trends dynamically on interactive maps
 Customizable Reporting: Generate reports on sales, revenue, and inventory based on customizable parameters.
 
 ## 📌 Useful Links
-#### Java Servlets Documentation
+#### Java Documentation
+#### MySQL Documentation
 #### Apache Tomcat
 #### MVC Architecture in Java
 #### 🛠️ Technologies Used:
