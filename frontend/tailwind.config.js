@@ -4,7 +4,11 @@ export default {
   theme: {
     extend: {
       fontsFamily: {
-        sans: ["Irish Grover", "Squada One", "Slackey", "Satisfy", "Spline Sans"],
+        irish: ['Irish Grover', 'cursive'],
+        satisfy: ['Satisfy', 'cursive'],
+        slackey: ['Slackey', 'cursive'],
+        spline: ['Spline Sans', 'sans-serif'],
+        squada: ['Squada One', 'sans-serif'],
       },
 
       colors: {
