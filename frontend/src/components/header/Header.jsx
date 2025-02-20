@@ -2,12 +2,17 @@ import { Search } from "lucide-react"
 
 import Navbar from "./navbar/Navbar"
 
-import logo from "../../assets/logo.svg"
+import logo from "../../assets/images/logo.svg"
 
 export default function Header() {
   return(
     <header className="flex justify-around items-center p-6">
-      <img src={ logo } alt="Logo" className="w-20 h-20 "/>
+      <img 
+        src={ logo } 
+        alt="Logo" 
+        className="w-20 h-20 pointer-events-none user-drag-none -webkit-user-drag-none"
+      />
+      
       <Navbar />
       <Elements />
     </header>

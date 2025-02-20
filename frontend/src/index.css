@@ -3,3 +3,24 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+    font-family: "Irish Grover", cursive;
+    src: url(./assests/fonts/Irish_Grover/IrishGrover-Regular.ttf);
+}
+@font-face {
+    font-family: "Satisfy", cursive;
+    src: url(./assets/fonts/Satisfy/Satisfy-Regular.ttf);
+}
+@font-face {
+    font-family: "Slackey", cursive;
+    src: url(./assets/fonts/Slackey/Slackey-Regular.ttf);
+}
+@font-face {
+    font-family: "Spline Sans", sans-serif;
+    src: url(./assets/fonts/Spline_Sans/SplineSans-VariableFont_wght.ttf);
+}
+@font-face {
+    font-family: "Squada One", sans-serif;
+    src: url(./assets/fonts/Squada_One/SquadaOne-Regular.ttf);
+}

@@ -5,7 +5,6 @@ import SectionThree from "./sections/sectionThree/SectionThree";
 export default function Main() {
   return(
     <main>
-      Main
       <SectionOne />
       <SectionTwo />
       <SectionThree />
